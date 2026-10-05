@@ -1,0 +1,11 @@
+# Ignorar instaladores e executáveis
+*.exe
+*.msi
+*.zip
+*.tar.gz
+
+# Dependências e logs
+node_modules/
+dist/
+build/
+.env
